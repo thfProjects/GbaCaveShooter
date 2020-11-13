@@ -1,0 +1,603 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_divsi3.o)
+                              caveshooter.o (__aeabi_idivmod)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_dvmd_tls.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (__libc_init_array)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy-stub.o)
+                              caveshooter.o (memcpy)
+c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                              c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (fake_heap_end)
+
+Allocating common symbols
+Common symbol       size              file
+
+x                   0x4               caveshooter.o
+bullet_states       0x4c              caveshooter.o
+num_bullets         0x4               caveshooter.o
+bgx                 0x4               caveshooter.o
+bgy                 0x4               caveshooter.o
+obj_buffer          0x400             caveshooter.o
+y                   0x4               caveshooter.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crti.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crti.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crti.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .text          0x00000000        0x0 cave2.o
+ .data          0x00000000        0x0 cave2.o
+ .bss           0x00000000        0x0 cave2.o
+ .text          0x00000000        0x0 caveship.o
+ .data          0x00000000        0x0 caveship.o
+ .bss           0x00000000        0x0 caveship.o
+ .data          0x00000000        0x0 caveshooter.o
+ .text          0x00000000        0x0 explosion.o
+ .data          0x00000000        0x0 explosion.o
+ .bss           0x00000000        0x0 explosion.o
+ .text          0x00000000        0x0 gameover.o
+ .data          0x00000000        0x0 gameover.o
+ .bss           0x00000000        0x0 gameover.o
+ .data          0x00000000        0x0 toolbox.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .bss.fake_heap_start
+                0x00000000        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+ .text          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtn.o
+ .data          0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtn.o
+ .bss           0x00000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x02000000
+iwram            0x03000000         0x00008000
+ewram            0x02000000         0x00040000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x08000000                __text_start = ORIGIN (rom)
+                0x02040000                __eheap_end = (ORIGIN (ewram) + LENGTH (ewram))
+                0x03000000                __iwram_start = ORIGIN (iwram)
+                0x03008000                __iwram_top = (ORIGIN (iwram) + LENGTH (iwram))
+                0x03007fa0                __sp_irq = (__iwram_top - 0x60)
+                0x03007f00                __sp_usr = (__sp_irq - 0xa0)
+                0x03007ff8                __irq_flags = 0x3007ff8
+                0x08000000                . = __text_start
+
+.crt0           0x08000000      0x210
+ *(.crt0)
+ .crt0          0x08000000      0x210 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+                0x08000000                _start
+                0x080000c4                __boot_method
+                0x080000c5                __slave_number
+                0x080000e0                start_vector
+                0x08000210                . = ALIGN (0x4)
+
+.init           0x08000210        0xc
+ *(SORT(.init))
+ .init          0x08000210        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crti.o
+                0x08000210                _init
+ .init          0x08000214        0x8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtn.o
+
+.plt            0x0800021c        0x0
+ *(.plt)
+                0x0800021c                . = ALIGN (0x4)
+
+.text           0x08000220     0x19d0
+ *(EXCLUDE_FILE(*.iwram*) .text)
+ .text          0x08000220     0x1648 caveshooter.o
+                0x08000220                tile_index
+                0x08000254                se_index
+                0x08000298                isCaveshipCollision
+                0x08000710                isBulletCollision
+                0x08000a34                gameover
+                0x08000b10                game
+ .text          0x08001868       0x54 toolbox.o
+                0x08001868                oam_init
+                0x0800189c                oam_copy
+ .text          0x080018bc      0x150 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_divsi3.o)
+                0x080018bc                __divsi3
+                0x080018bc                __aeabi_idiv
+                0x080019ec                __aeabi_idivmod
+ .text          0x08001a0c        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_dvmd_tls.o)
+                0x08001a0c                __aeabi_idiv0
+                0x08001a0c                __aeabi_ldiv0
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.deregister_tm_clones
+                0x08001a10       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .text.register_tm_clones
+                0x08001a40       0x34 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x08001a74       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .text.frame_dummy
+                0x08001aa4       0x48 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .text.startup  0x08001aec        0xc caveshooter.o
+                0x08001aec                main
+ .text.__libc_init_array
+                0x08001af8       0x58 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+                0x08001af8                __libc_init_array
+ .text.memcpy   0x08001b50       0x88 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy-stub.o)
+                0x08001b50                memcpy
+ .text.memcpy.__stub
+                0x08001bd8       0x14 linker stubs
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x08001bf0        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x08001bf0        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x08001bf0        0x0 linker stubs
+                0x08001bf0                . = ALIGN (0x4)
+                0x08001bf0                __text_end = .
+
+.v4_bx          0x08001bf0        0x0
+ .v4_bx         0x08001bf0        0x0 linker stubs
+
+.iplt           0x08001bf0        0x0
+ .iplt          0x08001bf0        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.fini           0x08001bf0        0xc
+ *(.fini)
+ .fini          0x08001bf0        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crti.o
+                0x08001bf0                _fini
+ .fini          0x08001bf4        0x8 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtn.o
+                0x08001bfc                . = ALIGN (0x4)
+
+.rodata         0x08001bfc    0x19180
+ *(.rodata)
+ .rodata        0x08001bfc     0x42a0 cave2.o
+                0x08001bfc                cave2Pal
+                0x08001c1c                cave2colMap
+                0x08003c1c                cave2Map
+                0x08005c1c                cave2Tiles
+ .rodata        0x08005e9c      0x2c0 caveship.o
+                0x08005e9c                bulletsPal
+                0x08005ebc                bulletsBitmap
+                0x08005f3c                caveshipPal
+                0x08005f5c                caveship2Bitmap
+                0x0800605c                caveship1Bitmap
+ .rodata        0x0800615c     0x1e20 explosion.o
+                0x0800615c                explosionPal
+                0x0800617c                explosionBitmap
+ .rodata        0x08007f7c    0x12e00 gameover.o
+                0x08007f7c                gameoverPal
+                0x0800817c                gameover2Bitmap
+                0x0801177c                gameover1Bitmap
+ *all.rodata*(*)
+ *(.roda)
+ *(.rodata.*)
+ *(.gnu.linkonce.r*)
+                0x0801ad7c                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0801ad7c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0801ad7c                __exidx_end = .
+
+.ctors          0x0801ad7c        0x0
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0801ad7c                . = ALIGN (0x4)
+
+.dtors          0x0801ad7c        0x0
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x0801ad7c                . = ALIGN (0x4)
+
+.eh_frame       0x0801ad7c        0x4
+ *(.eh_frame)
+ .eh_frame      0x0801ad7c        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .eh_frame      0x0801ad7c        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+                0x0801ad80                . = ALIGN (0x4)
+
+.rel.dyn        0x0801ad80        0x0
+ .rel.iplt      0x0801ad80        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.gcc_except_table
+                0x0801ad80        0x0
+ *(.gcc_except_table)
+                0x0801ad80                . = ALIGN (0x4)
+                0x0801ad80                __iwram_lma = .
+
+.iwram          0x03000000        0x0 load address 0x0801ad80
+                0x03000000                __iwram_start__ = ABSOLUTE (.)
+ *(.iwram)
+ *iwram.*(.text)
+                0x03000000                . = ALIGN (0x4)
+                0x03000000                __iwram_end__ = ABSOLUTE (.)
+                0x0801ad80                __data_lma = (__iwram_lma + SIZEOF (.iwram))
+
+.bss            0x03000000      0x488
+                0x03000000                __bss_start = ABSOLUTE (.)
+                0x03000000                __bss_start__ = ABSOLUTE (.)
+ *(.dynbss)
+ *(.gnu.linkonce.b*)
+ *(.bss*)
+ .bss.completed.6497
+                0x03000000        0x1 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ *fill*         0x03000001        0x3 
+ .bss.object.6502
+                0x03000004       0x18 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .bss           0x0300001c        0x4 caveshooter.o
+                0x0300001c                bg_sbb_offset
+ .bss           0x03000020        0x4 toolbox.o
+                0x03000020                key_prev
+                0x03000022                key_curr
+ .bss.fake_heap_end
+                0x03000024        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                0x03000024                fake_heap_end
+ *(COMMON)
+ COMMON         0x03000028      0x460 caveshooter.o
+                0x03000028                x
+                0x0300002c                bullet_states
+                0x03000078                num_bullets
+                0x0300007c                bgx
+                0x03000080                bgy
+                0x03000084                obj_buffer
+                0x03000484                y
+                0x03000488                . = ALIGN (0x4)
+                0x03000488                __bss_end__ = ABSOLUTE (.)
+
+.data           0x03000488        0x0 load address 0x0801ad80
+                0x03000488                __data_start__ = ABSOLUTE (.)
+ *(.data)
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+                0x03000488                . = ALIGN (0x4)
+                0x0801ad80                __preinit_lma = (__data_lma + SIZEOF (.data))
+
+.igot.plt       0x03000000        0x0
+ .igot.plt      0x03000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.tm_clone_table
+                0x03000000        0x0
+ .tm_clone_table
+                0x03000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .tm_clone_table
+                0x03000000        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+
+.preinit_array  0x03000488        0x0 load address 0x0801ad80
+                0x03000488                __preinit_array_start = ABSOLUTE (.)
+ *(.preinit_array)
+                0x03000488                __preinit_array_end = ABSOLUTE (.)
+                0x0801ad80                __init_lma = (__preinit_lma + SIZEOF (.preinit_array))
+
+.init_array     0x03000488        0x4 load address 0x0801ad80
+                0x03000488                __init_array_start = ABSOLUTE (.)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x03000488        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+                0x0300048c                __init_array_end = ABSOLUTE (.)
+                0x0801ad84                __fini_lma = (__init_lma + SIZEOF (.init_array))
+
+.fini_array     0x0300048c        0x4 load address 0x0801ad84
+                0x0300048c                __fini_array_start = ABSOLUTE (.)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0300048c        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+                0x03000490                __fini_array_end = ABSOLUTE (.)
+                0x0801ad88                __jcr_lma = (__fini_lma + SIZEOF (.fini_array))
+
+.jcr            0x03000490        0x4 load address 0x0801ad88
+ *(.jcr)
+ .jcr           0x03000490        0x0 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .jcr           0x03000490        0x4 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+                0x03000494                __data_end__ = ABSOLUTE (.)
+                0x0801ad8c                __iwram_overlay_lma = (__jcr_lma + SIZEOF (.jcr))
+                0x03000494                __iwram_overlay_start = .
+
+.iwram0         0x03000494        0x0 load address 0x0801ad8c
+ *(.iwram0)
+                0x03000494                . = ALIGN (0x4)
+                0x0801ad8c                PROVIDE (__load_start_iwram0, LOADADDR (.iwram0))
+                0x0801ad8c                PROVIDE (__load_stop_iwram0, (LOADADDR (.iwram0) + SIZEOF (.iwram0)))
+
+.iwram1         0x03000494        0x0
+ *(.iwram1)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram1, LOADADDR (.iwram1))
+                [!provide]                PROVIDE (__load_stop_iwram1, (LOADADDR (.iwram1) + SIZEOF (.iwram1)))
+
+.iwram2         0x03000494        0x0
+ *(.iwram2)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram2, LOADADDR (.iwram2))
+                [!provide]                PROVIDE (__load_stop_iwram2, (LOADADDR (.iwram2) + SIZEOF (.iwram2)))
+
+.iwram3         0x03000494        0x0
+ *(.iwram3)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram3, LOADADDR (.iwram3))
+                [!provide]                PROVIDE (__load_stop_iwram3, (LOADADDR (.iwram3) + SIZEOF (.iwram3)))
+
+.iwram4         0x03000494        0x0
+ *(.iwram4)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram4, LOADADDR (.iwram4))
+                [!provide]                PROVIDE (__load_stop_iwram4, (LOADADDR (.iwram4) + SIZEOF (.iwram4)))
+
+.iwram5         0x03000494        0x0
+ *(.iwram5)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram5, LOADADDR (.iwram5))
+                [!provide]                PROVIDE (__load_stop_iwram5, (LOADADDR (.iwram5) + SIZEOF (.iwram5)))
+
+.iwram6         0x03000494        0x0
+ *(.iwram6)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram6, LOADADDR (.iwram6))
+                [!provide]                PROVIDE (__load_stop_iwram6, (LOADADDR (.iwram6) + SIZEOF (.iwram6)))
+
+.iwram7         0x03000494        0x0
+ *(.iwram7)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram7, LOADADDR (.iwram7))
+                [!provide]                PROVIDE (__load_stop_iwram7, (LOADADDR (.iwram7) + SIZEOF (.iwram7)))
+
+.iwram8         0x03000494        0x0
+ *(.iwram8)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram8, LOADADDR (.iwram8))
+                [!provide]                PROVIDE (__load_stop_iwram8, (LOADADDR (.iwram8) + SIZEOF (.iwram8)))
+
+.iwram9         0x03000494        0x0
+ *(.iwram9)
+                0x03000494                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__load_start_iwram9, LOADADDR (.iwram9))
+                [!provide]                PROVIDE (__load_stop_iwram9, (LOADADDR (.iwram9) + SIZEOF (.iwram9)))
+                0x03000494                __iwram_overlay_end = .
+                0x0801ad8c                __ewram_lma = (__iwram_overlay_lma + (__iwram_overlay_end - __iwram_overlay_start))
+                0x03000494                __iheap_start = .
+                0x02000000                __ewram_start = ORIGIN (ewram)
+
+.ewram          0x02000000        0x0 load address 0x0801ad8c
+ *(.ewram)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                __ewram_end = ABSOLUTE (.)
+                0x0801ad8c                __pad_lma = (__ewram_lma + SIZEOF (.ewram))
+
+.sbss           0x02000000        0x0
+                0x02000000                __sbss_start__ = ABSOLUTE (.)
+ *(.sbss)
+                0x02000000                . = ALIGN (0x4)
+                0x02000000                __sbss_end__ = ABSOLUTE (.)
+                0x02000000                __end__ = ABSOLUTE (.)
+                0x02000000                __eheap_start = ABSOLUTE (.)
+
+.pad            0x02000000        0x8 load address 0x0801ad8c
+                0x02000000        0x4 LONG 0x52416b64
+                0x02000004        0x4 LONG 0x4d
+                0x02000008                . = ALIGN (0x4)
+                0x0801ad94                __rom_end__ = (__pad_lma + SIZEOF (.pad))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x22
+ *(.comment)
+ .comment       0x00000000       0x22 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+                                 0x23 (size before relaxing)
+ .comment       0x00000022       0x23 cave2.o
+ .comment       0x00000022       0x23 caveship.o
+ .comment       0x00000022       0x23 caveshooter.o
+ .comment       0x00000022       0x23 explosion.o
+ .comment       0x00000022       0x23 gameover.o
+ .comment       0x00000022       0x23 toolbox.o
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy-stub.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .comment       0x00000022       0x23 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xa8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 cave2.o
+ .debug_aranges
+                0x00000018       0x18 caveship.o
+ .debug_aranges
+                0x00000030       0x28 caveshooter.o
+ .debug_aranges
+                0x00000058       0x18 explosion.o
+ .debug_aranges
+                0x00000070       0x18 gameover.o
+ .debug_aranges
+                0x00000088       0x20 toolbox.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2377
+ *(.debug_info)
+ .debug_info    0x00000000       0xb4 cave2.o
+ .debug_info    0x000000b4       0xc1 caveship.o
+ .debug_info    0x00000175     0x1f2d caveshooter.o
+ .debug_info    0x000020a2       0x7b explosion.o
+ .debug_info    0x0000211d       0x8d gameover.o
+ .debug_info    0x000021aa      0x1cd toolbox.o
+
+.debug_abbrev   0x00000000      0x6f5
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d cave2.o
+ .debug_abbrev  0x0000005d       0x43 caveship.o
+ .debug_abbrev  0x000000a0      0x462 caveshooter.o
+ .debug_abbrev  0x00000502       0x5d explosion.o
+ .debug_abbrev  0x0000055f       0x5d gameover.o
+ .debug_abbrev  0x000005bc      0x139 toolbox.o
+
+.debug_line     0x00000000      0xb47
+ *(.debug_line)
+ .debug_line    0x00000000       0x61 cave2.o
+ .debug_line    0x00000061       0x64 caveship.o
+ .debug_line    0x000000c5      0x8ea caveshooter.o
+ .debug_line    0x000009af       0x65 explosion.o
+ .debug_line    0x00000a14       0x64 gameover.o
+ .debug_line    0x00000a78       0xcf toolbox.o
+
+.debug_frame    0x00000000      0x150
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x104 caveshooter.o
+ .debug_frame   0x00000104       0x4c toolbox.o
+
+.debug_str      0x00000000      0x90c
+ *(.debug_str)
+ .debug_str     0x00000000       0xf5 cave2.o
+ .debug_str     0x000000f5       0x89 caveship.o
+                                0x114 (size before relaxing)
+ .debug_str     0x0000017e      0x6c2 caveshooter.o
+                                0x860 (size before relaxing)
+ .debug_str     0x00000840       0x45 explosion.o
+                                 0xed (size before relaxing)
+ .debug_str     0x00000885       0x44 gameover.o
+                                 0xfb (size before relaxing)
+ .debug_str     0x000008c9       0x43 toolbox.o
+                                0x14f (size before relaxing)
+
+.debug_loc      0x00000000     0x137d
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x11ac caveshooter.o
+ .debug_loc     0x000011ac      0x1d1 toolbox.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.stack          0x00080000        0x0
+                0x00080000                _stack = .
+ *(.stack)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x2c
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x20 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .ARM.attributes
+                0x00000020       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crti.o
+ .ARM.attributes
+                0x00000036       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+ .ARM.attributes
+                0x00000066       0x2c cave2.o
+ .ARM.attributes
+                0x00000092       0x2c caveship.o
+ .ARM.attributes
+                0x000000be       0x2c caveshooter.o
+ .ARM.attributes
+                0x000000ea       0x2c explosion.o
+ .ARM.attributes
+                0x00000116       0x2c gameover.o
+ .ARM.attributes
+                0x00000142       0x2c toolbox.o
+ .ARM.attributes
+                0x0000016e       0x18 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000186       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000019c       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001cc       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000001fc       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .ARM.attributes
+                0x0000022c       0x30 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+ .ARM.attributes
+                0x0000025c       0x16 c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crti.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtbegin.o
+LOAD cave2.o
+LOAD caveship.o
+LOAD caveshooter.o
+LOAD explosion.o
+LOAD gameover.o
+LOAD toolbox.o
+LOAD c:/devkitPro/libgba/lib\libmm.a
+LOAD c:/devkitPro/libgba/lib\libgba.a
+START GROUP
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb\libgcc.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libg.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libc.a
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/../../../../arm-none-eabi/lib/thumb\libsysbase.a
+END GROUP
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtend.o
+LOAD c:/devkitpro/devkitarm/bin/../lib/gcc/arm-none-eabi/6.3.0/thumb/crtn.o
+OUTPUT(c:/Users/marko/Desktop/gbadev/mygames/caveshooter/caveshooter.elf elf32-littlearm)
+
+.debug_ranges   0x00000000      0xdb0
+ .debug_ranges  0x00000000      0xdb0 caveshooter.o
