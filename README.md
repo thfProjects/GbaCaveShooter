@@ -5,4 +5,4 @@ Built with DevkitPro
 
 Controls: Directional keys - moving, A - shooting
 
-![](https://media.giphy.com/media/KNozdwMNxxZd2umvIR/giphy.gif)
+![](https://i.giphy.com/media/KNozdwMNxxZd2umvIR/giphy.webp)
